@@ -15,11 +15,24 @@ I want to create a precense system that efficiently shows the status of co-worke
 
 ## Interview script
 
+### do's and don'ts
+
+- Do
+  - Ask open ended questions
+  - Let the respondant have some time to think and answer
+  - Acknowlage the answers
+- Don't
+  - Ask leading questions
+  - Fill silences
+  - Ask yes/no questions
+  - Interrupt the respontant
+  - Take notes during the interview
+
 ### Intro - About the interview and the project
 
 ### Introduction - Little bit about me and why I'm doing this
 
-### Let's get to know the repondant
+### Let's get to know the respondant
 
 - Age
 - Position / Employment
