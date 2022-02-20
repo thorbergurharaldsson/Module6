@@ -156,5 +156,5 @@ The biggest pain point regarding presence systems seems to be the lack of usage,
 ### Won't have
 
 ## Persona
-
+[Gunnar Sigurðsson](https://www.hubspot.com/make-my-persona?persona=-MwMfdOrOh-wuxZ0QOxn)
 ![Gunnar Sigurðsson, Persona](GunnarSigurdsson-Persona.png)
