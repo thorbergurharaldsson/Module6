@@ -98,8 +98,8 @@ _Potential answer_
 
 - Q: Personal detail
   - 42 years old
-  - Is head of the firma service department at Snerpa
-  - Work is mostly sales to customers and project management for the firma department
+  - Is business services manager at Snerpa
+  - Work is mostly sales to customers and project management for the business services department
   - Works mostly at the office, but sometimes remotely
 - Q: How can you tell whether your co-workers are at there desk, working remotely or on vacation for example?
   - Can stand up to check if that person is at their desk
