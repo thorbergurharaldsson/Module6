@@ -156,3 +156,5 @@ The biggest pain point regarding presence systems seems to be the lack of usage,
 ### Won't have
 
 ### Persona
+
+![Gunnar Sigurðsson, Persona](GunnarSigurdsson-Persona.png)
