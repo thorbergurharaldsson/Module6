@@ -163,3 +163,7 @@ The biggest pain point regarding presence systems seems to be the lack of usage,
 ## Empathy Map
 
 ![Empathy Map](empathyMap.png)
+
+## Scenarios & Storyboarding
+
+![Journey map](JourneyMap.png)
